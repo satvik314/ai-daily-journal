@@ -1,1 +1,1 @@
-# daily-journal
+# ai-daily-journal
